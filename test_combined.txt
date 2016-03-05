@@ -1,240 +1,240 @@
 Result for 20 iterations 1 complexity level .10 noise level
 number of files: 19.0
-maximum: 1.01140771377
-minimum: 0.984254480936
+upper: 1.00116979117
+lower: 0.994492403529
 average: 0.997831097352
 Result for 20 iterations 1 complexity level .11 noise level
 number of files: 20.0
-maximum: 1.05365597886
-minimum: 0.857632792992
+upper: 0.979048304491
+lower: 0.932240467357
 average: 0.955644385924
 Result for 20 iterations 1 complexity level .12 noise level
 number of files: 20.0
-maximum: 1.09076009858
-minimum: 0.847128819537
+upper: 0.998032480405
+lower: 0.939856437709
 average: 0.968944459057
 Result for 20 iterations 1 complexity level .13 noise level
 number of files: 20.0
-maximum: 1.08927380846
-minimum: 0.61543687017
+upper: 0.908928448606
+lower: 0.795782230021
 average: 0.852355339314
 Result for 20 iterations 1 complexity level .14 noise level
 number of files: 18.0
-maximum: 1.12104587908
-minimum: 0.520839832913
+upper: 0.897085950239
+lower: 0.744799761753
 average: 0.820942855996
 Result for 20 iterations 1 complexity level .15 noise level
 number of files: 19.0
-maximum: 1.15033021843
-minimum: 0.548108064911
+upper: 0.923266876478
+lower: 0.775171406866
 average: 0.849219141672
 Result for 20 iterations 2 complexity level .10 noise level
 number of files: 18.0
-maximum: 1.00036123582
-minimum: 0.995673721386
+upper: 0.998612144147
+lower: 0.997422813063
 average: 0.998017478605
 Result for 20 iterations 2 complexity level .11 noise level
 number of files: 20.0
-maximum: 1.02916269912
-minimum: 0.852958291834
+upper: 0.962098178245
+lower: 0.92002281271
 average: 0.941060495477
 Result for 20 iterations 2 complexity level .12 noise level
 number of files: 20.0
-maximum: 1.09244910542
-minimum: 0.749810787952
+upper: 0.962038777161
+lower: 0.880221116209
 average: 0.921129946685
 Result for 20 iterations 2 complexity level .13 noise level
 number of files: 19.0
-maximum: 1.12037312613
-minimum: 0.651708048825
+upper: 0.943666477119
+lower: 0.82841469784
 average: 0.88604058748
 Result for 20 iterations 2 complexity level .14 noise level
 number of files: 19.0
-maximum: 1.07025409963
-minimum: 0.511287768515
+upper: 0.859500040781
+lower: 0.722041827363
 average: 0.790770934072
 Result for 20 iterations 2 complexity level .15 noise level
 number of files: 19.0
-maximum: 1.05031221124
-minimum: 0.51777075795
+upper: 0.8495214542
+lower: 0.718561514995
 average: 0.784041484597
 Result for 20 iterations 3 complexity level .10 noise level
 number of files: 19.0
-maximum: 1.00008362821
-minimum: 0.991156794156
+upper: 0.996717832446
+lower: 0.99452258992
 average: 0.995620211183
 Result for 20 iterations 3 complexity level .11 noise level
 number of files: 19.0
-maximum: 1.01637298355
-minimum: 0.855853190926
+upper: 0.955850200801
+lower: 0.916375973672
 average: 0.936113087236
 Result for 20 iterations 3 complexity level .12 noise level
 number of files: 20.0
-maximum: 1.08253983836
-minimum: 0.804130650837
+upper: 0.97657552648
+lower: 0.91009496272
 average: 0.9433352446
 Result for 20 iterations 3 complexity level .13 noise level
 number of files: 19.0
-maximum: 1.10889869412
-minimum: 0.601263942338
+upper: 0.917498821897
+lower: 0.792663814556
 average: 0.855081318227
 Result for 20 iterations 3 complexity level .14 noise level
 number of files: 20.0
-maximum: 1.06811433449
-minimum: 0.556156835003
+upper: 0.873260045993
+lower: 0.751011123501
 average: 0.812135584747
 Result for 20 iterations 3 complexity level .15 noise level
 number of files: 17.0
-maximum: 0.872627626171
-minimum: 0.489488430836
+upper: 0.731312012361
+lower: 0.630804044647
 average: 0.681058028504
 Result for 20 iterations 4 complexity level .10 noise level
 number of files: 20.0
-maximum: 0.941190548955
-minimum: 0.90004937355
+upper: 0.925531955284
+lower: 0.915707967222
 average: 0.920619961253
 Result for 20 iterations 4 complexity level .11 noise level
 number of files: 20.0
-maximum: 0.981134812265
-minimum: 0.80866392974
+upper: 0.915491294718
+lower: 0.874307447287
 average: 0.894899371003
 Result for 20 iterations 4 complexity level .12 noise level
 number of files: 19.0
-maximum: 0.994220921346
-minimum: 0.672114146336
+upper: 0.872772979963
+lower: 0.793562087718
 average: 0.833167533841
 Result for 20 iterations 4 complexity level .13 noise level
 number of files: 20.0
-maximum: 1.00528136693
-minimum: 0.618389875397
+upper: 0.858027998466
+lower: 0.765643243856
 average: 0.811835621161
 Result for 20 iterations 4 complexity level .14 noise level
 number of files: 19.0
-maximum: 0.974882657963
-minimum: 0.493232554317
+upper: 0.793280102249
+lower: 0.67483511003
 average: 0.73405760614
 Result for 20 iterations 4 complexity level .15 noise level
 number of files: 19.0
-maximum: 0.925340312383
-minimum: 0.405442201932
+upper: 0.729316632841
+lower: 0.601465881474
 average: 0.665391257158
 Result for 20 iterations 5 complexity level .10 noise level
 number of files: 20.0
-maximum: 1.01566265876
-minimum: 0.898865927106
+upper: 0.971209078006
+lower: 0.943319507857
 average: 0.957264292932
 Result for 20 iterations 5 complexity level .11 noise level
 number of files: 20.0
-maximum: 1.02453082965
-minimum: 0.838766654155
+upper: 0.953827800041
+lower: 0.909469683762
 average: 0.931648741902
 Result for 20 iterations 5 complexity level .12 noise level
 number of files: 20.0
-maximum: 1.03329888815
-minimum: 0.708997057643
+upper: 0.90986754374
+lower: 0.832428402051
 average: 0.871147972895
 Result for 20 iterations 5 complexity level .13 noise level
 number of files: 20.0
-maximum: 1.02582556619
-minimum: 0.583493312891
+upper: 0.857471090317
+lower: 0.751847788766
 average: 0.804659439541
 Result for 20 iterations 5 complexity level .14 noise level
 number of files: 20.0
-maximum: 0.97426900324
-minimum: 0.470985320967
+upper: 0.782716024878
+lower: 0.662538299329
 average: 0.722627162103
 Result for 20 iterations 5 complexity level .15 noise level
 number of files: 19.0
-maximum: 0.725345280709
-minimum: 0.512010144785
+upper: 0.644908869269
+lower: 0.592446556226
 average: 0.618677712747
 Result for 20 iterations 6 complexity level .10 noise level
 number of files: 18.0
-maximum: 0.883765416817
-minimum: 0.834834444128
+upper: 0.865507391541
+lower: 0.853092469404
 average: 0.859299930473
 Result for 20 iterations 6 complexity level .11 noise level
 number of files: 20.0
-maximum: 0.931680433363
-minimum: 0.712983757873
+upper: 0.848443084282
+lower: 0.796221106954
 average: 0.822332095618
 Result for 20 iterations 6 complexity level .12 noise level
 number of files: 19.0
-maximum: 0.903585866376
-minimum: 0.680450173381
+upper: 0.819454228467
+lower: 0.76458181129
 average: 0.792018019879
 Result for 20 iterations 6 complexity level .13 noise level
 number of files: 20.0
-maximum: 0.941072205597
-minimum: 0.635495446005
+upper: 0.824767742568
+lower: 0.751799909034
 average: 0.788283825801
 Result for 20 iterations 6 complexity level .14 noise level
 number of files: 20.0
-maximum: 0.870220952222
-minimum: 0.512105881526
+upper: 0.733920073007
+lower: 0.64840676074
 average: 0.691163416874
 Result for 20 iterations 6 complexity level .15 noise level
 number of files: 20.0
-maximum: 0.907998298605
-minimum: 0.46511182833
+upper: 0.739432884216
+lower: 0.633677242719
 average: 0.686555063468
 Result for 20 iterations 7 complexity level .10 noise level
 number of files: 20.0
-maximum: 0.85655356707
-minimum: 0.769780375687
+upper: 0.823527137172
+lower: 0.802806805585
 average: 0.813166971379
 Result for 20 iterations 7 complexity level .11 noise level
 number of files: 19.0
-maximum: 0.849329002767
-minimum: 0.715052496517
+upper: 0.798701054132
+lower: 0.765680445152
 average: 0.782190749642
 Result for 20 iterations 7 complexity level .12 noise level
 number of files: 20.0
-maximum: 0.845093138269
-minimum: 0.660548767117
+upper: 0.774854373972
+lower: 0.730787531415
 average: 0.752820952693
 Result for 20 iterations 7 complexity level .13 noise level
 number of files: 19.0
-maximum: 0.882249079297
-minimum: 0.576390269459
+upper: 0.766927311205
+lower: 0.691712037551
 average: 0.729319674378
 Result for 20 iterations 7 complexity level .14 noise level
 number of files: 20.0
-maximum: 0.806225111743
-minimum: 0.487603890629
+upper: 0.684955843489
+lower: 0.608873158884
 average: 0.646914501186
 Result for 20 iterations 7 complexity level .15 noise level
 number of files: 18.0
-maximum: 0.80508609741
-minimum: 0.458495368878
+upper: 0.675759784563
+lower: 0.587821681724
 average: 0.631790733144
 Result for 20 iterations 8 complexity level .10 noise level
 number of files: 19.0
-maximum: 0.77855834985
-minimum: 0.719475808058
+upper: 0.756281721015
+lower: 0.741752436893
 average: 0.749017078954
 Result for 20 iterations 8 complexity level .11 noise level
 number of files: 19.0
-maximum: 0.781181436711
-minimum: 0.656403014228
+upper: 0.734134669256
+lower: 0.703449781683
 average: 0.71879222547
 Result for 20 iterations 8 complexity level .12 noise level
 number of files: 20.0
-maximum: 0.792544809335
-minimum: 0.572470175815
+upper: 0.708783000642
+lower: 0.656231984507
 average: 0.682507492575
 Result for 20 iterations 8 complexity level .13 noise level
 number of files: 20.0
-maximum: 0.791988128378
-minimum: 0.524020140183
+upper: 0.689997803532
+lower: 0.626010465028
 average: 0.65800413428
 Result for 20 iterations 8 complexity level .14 noise level
 number of files: 20.0
-maximum: 0.702282756445
-minimum: 0.521394255806
+upper: 0.633435439774
+lower: 0.590241572477
 average: 0.611838506126
 Result for 20 iterations 8 complexity level .15 noise level
 number of files: 19.0
-maximum: 0.643473068467
-minimum: 0.47226885088
+upper: 0.578921803499
+lower: 0.536820115849
 average: 0.557870959674
