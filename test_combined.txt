@@ -1,240 +1,240 @@
-Result for iterations: 10, complexity level:1, noise level:10
-number of files: 10.0
-maximum: 1.0
-minimum: 1.0
-average: 1.0
-Result for iterations: 10, complexity level:1, noise level:11
-number of files: 10.0
-maximum: 1.0
-minimum: 1.0
-average: 1.0
-Result for iterations: 10, complexity level:1, noise level:12
-number of files: 10.0
-maximum: 0.855182241239
-minimum: 0.850747089836
-average: 0.853406823134
-Result for iterations: 10, complexity level:1, noise level:13
-number of files: 10.0
-maximum: 0.99829536022
-minimum: 0.997028190113
-average: 0.997888102452
-Result for iterations: 10, complexity level:1, noise level:14
-number of files: 10.0
-maximum: 0.691471844736
-minimum: 0.682281744317
-average: 0.686114311175
-Result for iterations: 10, complexity level:1, noise level:15
-number of files: 10.0
-maximum: 0.570919429203
-minimum: 0.55207303909
-average: 0.560515035185
-Result for iterations: 10, complexity level:2, noise level:10
-number of files: 10.0
-maximum: 0.957852670313
-minimum: 0.929278381676
-average: 0.94849488206
-Result for iterations: 10, complexity level:2, noise level:11
-number of files: 10.0
-maximum: 0.998680851976
-minimum: 0.997634485577
-average: 0.998271749887
-Result for iterations: 10, complexity level:2, noise level:12
-number of files: 10.0
-maximum: 0.99837612425
-minimum: 0.99757973504
-average: 0.998029012588
-Result for iterations: 10, complexity level:2, noise level:13
-number of files: 10.0
-maximum: 0.763055442694
-minimum: 0.755703104684
-average: 0.760174246646
-Result for iterations: 10, complexity level:2, noise level:14
-number of files: 10.0
-maximum: 0.939328751445
-minimum: 0.932508257466
-average: 0.935570294594
-Result for iterations: 10, complexity level:2, noise level:15
-number of files: 10.0
-maximum: 0.583382089416
-minimum: 0.573898986966
-average: 0.578859613258
-Result for iterations: 10, complexity level:3, noise level:10
-number of files: 10.0
-maximum: 0.998988106543
-minimum: 0.998665296615
-average: 0.998830879906
-Result for iterations: 10, complexity level:3, noise level:11
-number of files: 10.0
-maximum: 0.917840837326
-minimum: 0.914929675457
-average: 0.916053989774
-Result for iterations: 10, complexity level:3, noise level:12
-number of files: 10.0
-maximum: 0.997152957167
-minimum: 0.995814759242
-average: 0.996551266297
-Result for iterations: 10, complexity level:3, noise level:13
-number of files: 10.0
-maximum: 0.989252580297
-minimum: 0.987022252722
-average: 0.988081016741
-Result for iterations: 10, complexity level:3, noise level:14
-number of files: 10.0
-maximum: 0.955577605996
-minimum: 0.945989573343
-average: 0.950135624298
-Result for iterations: 10, complexity level:3, noise level:15
-number of files: 10.0
-maximum: 0.863244868389
-minimum: 0.840875989162
-average: 0.852193540427
-Result for iterations: 10, complexity level:4, noise level:10
-number of files: 10.0
-maximum: 0.92384753995
-minimum: 0.919774117936
-average: 0.922037597217
-Result for iterations: 10, complexity level:4, noise level:11
-number of files: 10.0
-maximum: 0.828953716235
-minimum: 0.802101188652
-average: 0.815456445104
-Result for iterations: 10, complexity level:4, noise level:12
-number of files: 10.0
-maximum: 0.787444982234
-minimum: 0.78353438383
-average: 0.785929871257
-Result for iterations: 10, complexity level:4, noise level:13
-number of files: 10.0
-maximum: 0.64658642493
-minimum: 0.617576133238
-average: 0.634348172908
-Result for iterations: 10, complexity level:4, noise level:14
-number of files: 10.0
-maximum: 0.865330532115
-minimum: 0.857101139926
-average: 0.860566735008
-Result for iterations: 10, complexity level:4, noise level:15
-number of files: 10.0
-maximum: 0.808358351873
-minimum: 0.804572761275
-average: 0.806907881655
-Result for iterations: 10, complexity level:5, noise level:10
-number of files: 10.0
-maximum: 0.865657223249
-minimum: 0.856353698301
-average: 0.859577709414
-Result for iterations: 10, complexity level:5, noise level:11
-number of files: 10.0
-maximum: 0.857175448151
-minimum: 0.849713235609
-average: 0.853366425874
-Result for iterations: 10, complexity level:5, noise level:12
-number of files: 10.0
-maximum: 0.761442558369
-minimum: 0.749847000471
-average: 0.756617959631
-Result for iterations: 10, complexity level:5, noise level:13
-number of files: 10.0
-maximum: 0.805296875848
-minimum: 0.774961619029
-average: 0.796079093312
-Result for iterations: 10, complexity level:5, noise level:14
-number of files: 10.0
-maximum: 0.552008211566
-minimum: 0.534380893561
-average: 0.54219288035
-Result for iterations: 10, complexity level:5, noise level:15
-number of files: 10.0
-maximum: 0.598545673581
-minimum: 0.575344981386
-average: 0.589692818959
-Result for iterations: 10, complexity level:6, noise level:10
-number of files: 10.0
-maximum: 0.867370249728
-minimum: 0.86278708182
-average: 0.864502268081
-Result for iterations: 10, complexity level:6, noise level:11
-number of files: 10.0
-maximum: 0.85893598369
-minimum: 0.853908864522
-average: 0.856748762134
-Result for iterations: 10, complexity level:6, noise level:12
-number of files: 10.0
-maximum: 0.856796424921
-minimum: 0.853262556388
-average: 0.854252504258
-Result for iterations: 10, complexity level:6, noise level:13
-number of files: 10.0
-maximum: 0.517926220021
-minimum: 0.517926220021
-average: 0.517926220021
-Result for iterations: 10, complexity level:6, noise level:14
-number of files: 10.0
-maximum: 0.831466072187
-minimum: 0.818435678183
-average: 0.825538037767
-Result for iterations: 10, complexity level:6, noise level:15
-number of files: 10.0
-maximum: 0.577125911795
-minimum: 0.574576244838
-average: 0.576200628044
-Result for iterations: 10, complexity level:7, noise level:10
-number of files: 10.0
-maximum: 0.828484326835
-minimum: 0.825181910957
-average: 0.82660375699
-Result for iterations: 10, complexity level:7, noise level:11
-number of files: 10.0
-maximum: 0.781809338961
-minimum: 0.772869216275
-average: 0.776902947215
-Result for iterations: 10, complexity level:7, noise level:12
-number of files: 10.0
-maximum: 0.813784140545
-minimum: 0.80851185543
-average: 0.811081688705
-Result for iterations: 10, complexity level:7, noise level:13
-number of files: 10.0
-maximum: 0.656997095626
-minimum: 0.646490278335
-average: 0.651712196648
-Result for iterations: 10, complexity level:7, noise level:14
-number of files: 10.0
-maximum: 0.628663960497
-minimum: 0.6205711298
-average: 0.624415499537
-Result for iterations: 10, complexity level:7, noise level:15
-number of files: 10.0
-maximum: 0.743938030689
-minimum: 0.738501124762
-average: 0.74191795183
-Result for iterations: 10, complexity level:8, noise level:10
-number of files: 10.0
-maximum: 0.782147523591
-minimum: 0.772263889434
-average: 0.777539785855
-Result for iterations: 10, complexity level:8, noise level:11
-number of files: 10.0
-maximum: 0.753673069557
-minimum: 0.746601599735
-average: 0.749787953994
-Result for iterations: 10, complexity level:8, noise level:12
-number of files: 10.0
-maximum: 0.746631431456
-minimum: 0.742020299015
-average: 0.744642048983
-Result for iterations: 10, complexity level:8, noise level:13
-number of files: 10.0
-maximum: 0.738626539488
-minimum: 0.733637412679
-average: 0.736235162592
-Result for iterations: 10, complexity level:8, noise level:14
-number of files: 10.0
-maximum: 0.644168320434
-minimum: 0.626912926681
-average: 0.63693369809
-Result for iterations: 10, complexity level:8, noise level:15
-number of files: 10.0
-maximum: 0.547115903944
-minimum: 0.539225821956
-average: 0.544230561325
+Result for 20 iterations 1 complexity level .10 noise level
+number of files: 19.0
+maximum: 1.01140771377
+minimum: 0.984254480936
+average: 0.997831097352
+Result for 20 iterations 1 complexity level .11 noise level
+number of files: 20.0
+maximum: 1.05365597886
+minimum: 0.857632792992
+average: 0.955644385924
+Result for 20 iterations 1 complexity level .12 noise level
+number of files: 20.0
+maximum: 1.09076009858
+minimum: 0.847128819537
+average: 0.968944459057
+Result for 20 iterations 1 complexity level .13 noise level
+number of files: 20.0
+maximum: 1.08927380846
+minimum: 0.61543687017
+average: 0.852355339314
+Result for 20 iterations 1 complexity level .14 noise level
+number of files: 18.0
+maximum: 1.12104587908
+minimum: 0.520839832913
+average: 0.820942855996
+Result for 20 iterations 1 complexity level .15 noise level
+number of files: 19.0
+maximum: 1.15033021843
+minimum: 0.548108064911
+average: 0.849219141672
+Result for 20 iterations 2 complexity level .10 noise level
+number of files: 18.0
+maximum: 1.00036123582
+minimum: 0.995673721386
+average: 0.998017478605
+Result for 20 iterations 2 complexity level .11 noise level
+number of files: 20.0
+maximum: 1.02916269912
+minimum: 0.852958291834
+average: 0.941060495477
+Result for 20 iterations 2 complexity level .12 noise level
+number of files: 20.0
+maximum: 1.09244910542
+minimum: 0.749810787952
+average: 0.921129946685
+Result for 20 iterations 2 complexity level .13 noise level
+number of files: 19.0
+maximum: 1.12037312613
+minimum: 0.651708048825
+average: 0.88604058748
+Result for 20 iterations 2 complexity level .14 noise level
+number of files: 19.0
+maximum: 1.07025409963
+minimum: 0.511287768515
+average: 0.790770934072
+Result for 20 iterations 2 complexity level .15 noise level
+number of files: 19.0
+maximum: 1.05031221124
+minimum: 0.51777075795
+average: 0.784041484597
+Result for 20 iterations 3 complexity level .10 noise level
+number of files: 19.0
+maximum: 1.00008362821
+minimum: 0.991156794156
+average: 0.995620211183
+Result for 20 iterations 3 complexity level .11 noise level
+number of files: 19.0
+maximum: 1.01637298355
+minimum: 0.855853190926
+average: 0.936113087236
+Result for 20 iterations 3 complexity level .12 noise level
+number of files: 20.0
+maximum: 1.08253983836
+minimum: 0.804130650837
+average: 0.9433352446
+Result for 20 iterations 3 complexity level .13 noise level
+number of files: 19.0
+maximum: 1.10889869412
+minimum: 0.601263942338
+average: 0.855081318227
+Result for 20 iterations 3 complexity level .14 noise level
+number of files: 20.0
+maximum: 1.06811433449
+minimum: 0.556156835003
+average: 0.812135584747
+Result for 20 iterations 3 complexity level .15 noise level
+number of files: 17.0
+maximum: 0.872627626171
+minimum: 0.489488430836
+average: 0.681058028504
+Result for 20 iterations 4 complexity level .10 noise level
+number of files: 20.0
+maximum: 0.941190548955
+minimum: 0.90004937355
+average: 0.920619961253
+Result for 20 iterations 4 complexity level .11 noise level
+number of files: 20.0
+maximum: 0.981134812265
+minimum: 0.80866392974
+average: 0.894899371003
+Result for 20 iterations 4 complexity level .12 noise level
+number of files: 19.0
+maximum: 0.994220921346
+minimum: 0.672114146336
+average: 0.833167533841
+Result for 20 iterations 4 complexity level .13 noise level
+number of files: 20.0
+maximum: 1.00528136693
+minimum: 0.618389875397
+average: 0.811835621161
+Result for 20 iterations 4 complexity level .14 noise level
+number of files: 19.0
+maximum: 0.974882657963
+minimum: 0.493232554317
+average: 0.73405760614
+Result for 20 iterations 4 complexity level .15 noise level
+number of files: 19.0
+maximum: 0.925340312383
+minimum: 0.405442201932
+average: 0.665391257158
+Result for 20 iterations 5 complexity level .10 noise level
+number of files: 20.0
+maximum: 1.01566265876
+minimum: 0.898865927106
+average: 0.957264292932
+Result for 20 iterations 5 complexity level .11 noise level
+number of files: 20.0
+maximum: 1.02453082965
+minimum: 0.838766654155
+average: 0.931648741902
+Result for 20 iterations 5 complexity level .12 noise level
+number of files: 20.0
+maximum: 1.03329888815
+minimum: 0.708997057643
+average: 0.871147972895
+Result for 20 iterations 5 complexity level .13 noise level
+number of files: 20.0
+maximum: 1.02582556619
+minimum: 0.583493312891
+average: 0.804659439541
+Result for 20 iterations 5 complexity level .14 noise level
+number of files: 20.0
+maximum: 0.97426900324
+minimum: 0.470985320967
+average: 0.722627162103
+Result for 20 iterations 5 complexity level .15 noise level
+number of files: 19.0
+maximum: 0.725345280709
+minimum: 0.512010144785
+average: 0.618677712747
+Result for 20 iterations 6 complexity level .10 noise level
+number of files: 18.0
+maximum: 0.883765416817
+minimum: 0.834834444128
+average: 0.859299930473
+Result for 20 iterations 6 complexity level .11 noise level
+number of files: 20.0
+maximum: 0.931680433363
+minimum: 0.712983757873
+average: 0.822332095618
+Result for 20 iterations 6 complexity level .12 noise level
+number of files: 19.0
+maximum: 0.903585866376
+minimum: 0.680450173381
+average: 0.792018019879
+Result for 20 iterations 6 complexity level .13 noise level
+number of files: 20.0
+maximum: 0.941072205597
+minimum: 0.635495446005
+average: 0.788283825801
+Result for 20 iterations 6 complexity level .14 noise level
+number of files: 20.0
+maximum: 0.870220952222
+minimum: 0.512105881526
+average: 0.691163416874
+Result for 20 iterations 6 complexity level .15 noise level
+number of files: 20.0
+maximum: 0.907998298605
+minimum: 0.46511182833
+average: 0.686555063468
+Result for 20 iterations 7 complexity level .10 noise level
+number of files: 20.0
+maximum: 0.85655356707
+minimum: 0.769780375687
+average: 0.813166971379
+Result for 20 iterations 7 complexity level .11 noise level
+number of files: 19.0
+maximum: 0.849329002767
+minimum: 0.715052496517
+average: 0.782190749642
+Result for 20 iterations 7 complexity level .12 noise level
+number of files: 20.0
+maximum: 0.845093138269
+minimum: 0.660548767117
+average: 0.752820952693
+Result for 20 iterations 7 complexity level .13 noise level
+number of files: 19.0
+maximum: 0.882249079297
+minimum: 0.576390269459
+average: 0.729319674378
+Result for 20 iterations 7 complexity level .14 noise level
+number of files: 20.0
+maximum: 0.806225111743
+minimum: 0.487603890629
+average: 0.646914501186
+Result for 20 iterations 7 complexity level .15 noise level
+number of files: 18.0
+maximum: 0.80508609741
+minimum: 0.458495368878
+average: 0.631790733144
+Result for 20 iterations 8 complexity level .10 noise level
+number of files: 19.0
+maximum: 0.77855834985
+minimum: 0.719475808058
+average: 0.749017078954
+Result for 20 iterations 8 complexity level .11 noise level
+number of files: 19.0
+maximum: 0.781181436711
+minimum: 0.656403014228
+average: 0.71879222547
+Result for 20 iterations 8 complexity level .12 noise level
+number of files: 20.0
+maximum: 0.792544809335
+minimum: 0.572470175815
+average: 0.682507492575
+Result for 20 iterations 8 complexity level .13 noise level
+number of files: 20.0
+maximum: 0.791988128378
+minimum: 0.524020140183
+average: 0.65800413428
+Result for 20 iterations 8 complexity level .14 noise level
+number of files: 20.0
+maximum: 0.702282756445
+minimum: 0.521394255806
+average: 0.611838506126
+Result for 20 iterations 8 complexity level .15 noise level
+number of files: 19.0
+maximum: 0.643473068467
+minimum: 0.47226885088
+average: 0.557870959674
